@@ -1,0 +1,20 @@
+# Maven compiled output
+target/
+
+# IDE specific files
+.idea/         # IntelliJ IDEA files
+*.iml          # IntelliJ IDEA module files
+.project       # Eclipse project files
+.classpath     # Eclipse classpath files
+.settings/     # Eclipse settings folder
+
+# OS generated files
+.DS_Store      # macOS files
+Thumbs.db      # Windows files
+
+# Other temporary/generated files
+*.log
+*.tmp
+*.class
+*.jar
+*.war

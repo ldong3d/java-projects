@@ -18,3 +18,14 @@ If you have a simple, beginner-level Java project that you would like to add to 
 
 ## License
 This repository is licensed under the MIT License, which means that you can use, modify, and distribute the code for any purpose, commercial or non-commercial, as long as you give credit to the original author.
+
+## How to Run the Project
+first build the project using Maven:
+mvn clean install (to build the project)
+
+then run the project using one of the following commands:
+mvn spring-boot:run (to run the project) 
+or
+java -jar target/everybody-app-0.1.0.jar 
+or
+from your IDE, run the main method from the Application class.
